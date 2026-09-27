@@ -1,4 +1,5 @@
 # Mi-Gestor-Cli-Python-
+V0.2
 Sistema CLI de Gestión de Entrenamiento Personal y Registro de Cambios en Python
 
 Características principales:
