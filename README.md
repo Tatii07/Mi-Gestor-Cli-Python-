@@ -12,4 +12,4 @@ Capturas de pantalla: Fotos de la terminal corriendo en Pydroid 3.
 
 ![Menú Principal](Assets/menu_principal.png)
 ![Módulo de Logs](Assets/logs.png)
-![Menú De Datosl](Assets/menu_de_datos.png)
+![Menú De datosl](Assets/menu_datos.png)
