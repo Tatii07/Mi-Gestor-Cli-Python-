@@ -8,3 +8,8 @@ Arquitectura modular (separación de persistencia, interfaz y flujo principal en
 Persistencia: Almacenamiento local en archivos .txt.
 Capturas de pantalla: Fotos de la terminal corriendo en Pydroid 3.
 
+### Demostración del Sistema
+
+![Menú Principal](assets/menu_principal.png)
+![Módulo de Logs](assets/logs.png)
+![Menú De Datosl](assets/menu_de_datos.png)
